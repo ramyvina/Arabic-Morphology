@@ -1,0 +1,42 @@
+package constants;
+
+public enum Feature {
+		
+	SCORE,
+	DIAC,
+	LEX,
+	BW,
+	BWHASH,
+	GLOSS,
+	POS,
+	PRC3,
+	PRC2,
+	PRC1,
+	PRC0,
+	PER,
+	ASP,
+	VOX,
+	MOD,
+	GEN,
+	FGEN,
+	NUM,
+	FNUM,
+	STT,
+	CAS,
+	ENC0,
+	ENC1,
+	ENC2,
+	RAT,
+	STEM,
+	WORD_TYPE,
+	SOURCE,
+	DIWAN_SOURCE,
+	ANNO,
+	DIWAN,
+	MSA,
+	REGION,
+	SENTENCE_ID,
+	INPUT_STRING,
+	PROCESSED;
+
+}
